@@ -6,6 +6,8 @@ The fundamental concepts in computer security are covered, from an organizationa
 
 Particular emphasis on the security risk perspective.
 
+
+
 This course includes two Projects:
 
 - Risk Management Plan
